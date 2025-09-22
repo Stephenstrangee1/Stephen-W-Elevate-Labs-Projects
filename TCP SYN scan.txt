@@ -19,7 +19,7 @@ All 1000 scanned ports on 192.168.211.254 are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
 MAC Address: 00:50:56:EB:3C:6F (VMware)
 
-Nmap scan report for 192.168.211.128
+Nmap scan report for 192.168.211.???
 Host is up (0.0000050s latency).
 All 1000 scanned ports on 192.168.211.128 are in ignored states.
 Not shown: 1000 closed tcp ports (reset)

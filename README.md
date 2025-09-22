@@ -7,7 +7,8 @@ Objective
 Learn to discover open ports on devices in my local network and understand network exposure.
 
 ### Tools Used  
-- **Nmap** – For network scanning  
+- **Nmap** – For network scanning
+- **Wireshark(Optional) - For TCP Filtered  
 - **Linux Terminal** – For running commands  
 
 ### 📝 Steps I Followed  

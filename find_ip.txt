@@ -1,0 +1,21 @@
+#ELEVATELABS                                                                                                                                                                                                DAY 1 - IP FINDING     
+┌──(stephen㉿Strangee)-[~/Desktop/ELevate Lab Day1]
+└─$ ifconfig                      
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.211.128  netmask 255.255.255.0  broadcast 192.168.211.255
+        inet6 fe80::20c:29ff:fe94:558f  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:94:55:8f  txqueuelen 1000  (Ethernet)
+        RX packets 15839  bytes 1035097 (1010.8 KiB)
+        RX errors 16  dropped 33  overruns 0  frame 0
+        TX packets 159564  bytes 9223034 (8.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 19  base 0x2000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 8443  bytes 604992 (590.8 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 8443  bytes 604992 (590.8 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0

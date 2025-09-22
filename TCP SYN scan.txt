@@ -1,0 +1,27 @@
+# Nmap 7.94SVN scan initiated Mon Sep 22 11:54:31 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.211.0/24
+Nmap scan report for 192.168.211.1
+Host is up (0.011s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+6881/tcp open  bittorrent-tracker
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.211.2
+Host is up (0.0014s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE    SERVICE
+53/tcp filtered domain
+MAC Address: 00:50:56:E5:50:37 (VMware)
+
+Nmap scan report for 192.168.211.254
+Host is up (0.00017s latency).
+All 1000 scanned ports on 192.168.211.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:EB:3C:6F (VMware)
+
+Nmap scan report for 192.168.211.128
+Host is up (0.0000050s latency).
+All 1000 scanned ports on 192.168.211.128 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Sep 22 11:54:40 2025 -- 256 IP addresses (4 hosts up) scanned in 8.52 seconds

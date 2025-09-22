@@ -2,7 +2,7 @@
 ┌──(stephen㉿Strangee)-[~/Desktop/ELevate Lab Day1]
 └─$ ifconfig                      
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 192.168.211.128  netmask 255.255.255.0  broadcast 192.168.211.255
+        inet 192.168.???.???  netmask 255.255.255.0  broadcast 192.168.???.255
         inet6 fe80::20c:29ff:fe94:558f  prefixlen 64  scopeid 0x20<link>
         ether 00:0c:29:94:55:8f  txqueuelen 1000  (Ethernet)
         RX packets 15839  bytes 1035097 (1010.8 KiB)

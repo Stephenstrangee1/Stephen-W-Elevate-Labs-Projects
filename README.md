@@ -1,4 +1,4 @@
-# Stephen-W-Elevate-Labs-Projects DAY-1
+# Scan-Your-Local-Network-for-Open-Ports
 #Network Scanning using Nmap
 **Cyber Security Internship - Task 1  
 Network Port Scanning with Nmap**
